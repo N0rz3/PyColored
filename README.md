@@ -1,3 +1,3 @@
 # pycolored
 pycolored is a python color module where you can find different colors and styles, patterns etc...
-![pycolored](https://user-images.githubusercontent.com/123885505/223522527-a967717d-fc36-4373-9d9e-025f8fb19344.png)
+
