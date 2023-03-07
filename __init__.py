@@ -81,7 +81,7 @@ class Color:
     Reset = '\033[38;2;255;255;255m'
 
 
-    """Simple Color"""
+    """Simple Colors"""
     White = "\033[38;2;255;255;255m"
     Black = "\033[38;2;0;0;0m"
     Red = "\033[38;2;255;0;0m"
