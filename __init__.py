@@ -5,7 +5,7 @@ from pyfiglet import Figlet
 
 
 
-__name__ = "pycolors v1"
+__name__ = "pycolored v1"
 __credits__ = "Norze and Platipus"
 __doc__ = "https://github.com/N0rz3/PyColored/blob/main/__init__.py"
 
